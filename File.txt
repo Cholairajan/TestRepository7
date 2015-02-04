@@ -1,2 +1,6 @@
 Dev A modified.
+<<<<<<< HEAD
 Dev B Modified.
+=======
+Dev A again Modified.
+>>>>>>> c0e60d9e7c381b474c07d0a8ad2a0472eef8eca4
